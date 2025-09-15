@@ -3121,7 +3121,7 @@ MonoBehaviour:
   schoolBell: {fileID: 8300000, guid: d99969ae3c4aa8d468b42b9eea2e06ab, type: 3}
   streetAmbience: {fileID: 8300000, guid: d76d0356d58d5da4e8c302c8e1713a3e, type: 3}
   schoolAmbience: {fileID: 8300000, guid: 37cacea41985f6a499547fd1c4c5b319, type: 3}
-  poopSound: {fileID: 0}
+  poopSound: {fileID: 8300000, guid: 0be123d074e47de4ab2a959f15da2be3, type: 3}
   sink: {fileID: 8300000, guid: fd4e0e418a61afc428fdcbab2286274e, type: 3}
   effectAudioSource: {fileID: 656997136}
   ambienceAudioSource: {fileID: 656997135}

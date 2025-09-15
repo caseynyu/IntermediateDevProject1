@@ -320,7 +320,7 @@ public class GameManager : MonoBehaviour
         //play sound effect;
         effectAudioSource.PlayOneShot(poopSound);
         //Debug.Log("sound effect");
-        yield return new WaitForSeconds(7);
+        yield return new WaitForSeconds(4.5f);
         //however long sound effect is ^
         bRoomPeople.gameObject.GetComponentInChildren<SpriteRenderer>().enabled = true;
         Show(dialogue10talk);
