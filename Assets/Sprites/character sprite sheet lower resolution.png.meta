@@ -53,6 +53,60 @@ TextureImporter:
   - first:
       213: -3008754625295197182
     second: character sprite sheet lower resolution_16
+  - first:
+      213: -1242568614115287278
+    second: character sprite sheet lower resolution_17
+  - first:
+      213: -6179597330018582303
+    second: character sprite sheet lower resolution_18
+  - first:
+      213: -8292536862066885780
+    second: character sprite sheet lower resolution_19
+  - first:
+      213: 4463640636417020498
+    second: character sprite sheet lower resolution_20
+  - first:
+      213: 6219569032359769345
+    second: character sprite sheet lower resolution_21
+  - first:
+      213: -4639088547910956275
+    second: character sprite sheet lower resolution_22
+  - first:
+      213: -8443031296992207179
+    second: character sprite sheet lower resolution_23
+  - first:
+      213: 8252051284336394568
+    second: character sprite sheet lower resolution_24
+  - first:
+      213: -5521122347328174796
+    second: character sprite sheet lower resolution_25
+  - first:
+      213: 8769126312217623704
+    second: character sprite sheet lower resolution_26
+  - first:
+      213: -4780523442406983209
+    second: character sprite sheet lower resolution_27
+  - first:
+      213: -6390547142354786191
+    second: character sprite sheet lower resolution_28
+  - first:
+      213: 3164247016780552763
+    second: character sprite sheet lower resolution_29
+  - first:
+      213: -7586152459014914194
+    second: character sprite sheet lower resolution_30
+  - first:
+      213: -7250047296801302192
+    second: character sprite sheet lower resolution_31
+  - first:
+      213: 8847120120306890321
+    second: character sprite sheet lower resolution_32
+  - first:
+      213: -489799774471711964
+    second: character sprite sheet lower resolution_33
+  - first:
+      213: -6059277585103129270
+    second: character sprite sheet lower resolution_34
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -165,11 +219,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 28
-        y: 4361
+        y: 3161
         width: 429
         height: 649
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -187,11 +241,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 556
-        y: 4357
+        y: 3157
         width: 467
         height: 687
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -208,12 +262,12 @@ TextureImporter:
       name: character sprite sheet lower resolution_2
       rect:
         serializedVersion: 2
-        x: 1014
-        y: 4079
-        width: 548
-        height: 1110
+        x: 1062
+        y: 3179
+        width: 409
+        height: 660
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -230,12 +284,12 @@ TextureImporter:
       name: character sprite sheet lower resolution_3
       rect:
         serializedVersion: 2
-        x: 1569
-        y: 4052
-        width: 533
-        height: 1130
+        x: 1505
+        y: 3174
+        width: 403
+        height: 648
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -252,12 +306,12 @@ TextureImporter:
       name: character sprite sheet lower resolution_4
       rect:
         serializedVersion: 2
-        x: 2134
-        y: 4001
-        width: 576
-        height: 943
+        x: 1931
+        y: 3181
+        width: 391
+        height: 641
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -274,12 +328,12 @@ TextureImporter:
       name: character sprite sheet lower resolution_5
       rect:
         serializedVersion: 2
-        x: 2756
-        y: 3992
-        width: 578
-        height: 942
+        x: 2352
+        y: 3176
+        width: 393
+        height: 640
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -296,12 +350,12 @@ TextureImporter:
       name: character sprite sheet lower resolution_6
       rect:
         serializedVersion: 2
-        x: 3382
-        y: 4197
-        width: 563
-        height: 805
+        x: 2778
+        y: 3178
+        width: 322
+        height: 644
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -318,12 +372,12 @@ TextureImporter:
       name: character sprite sheet lower resolution_7
       rect:
         serializedVersion: 2
-        x: 44
-        y: 2250
-        width: 752
-        height: 1243
+        x: 3171
+        y: 3160
+        width: 352
+        height: 656
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -340,12 +394,12 @@ TextureImporter:
       name: character sprite sheet lower resolution_8
       rect:
         serializedVersion: 2
-        x: 1048
-        y: 3064
-        width: 453
-        height: 906
+        x: 3582
+        y: 3163
+        width: 322
+        height: 646
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -362,12 +416,12 @@ TextureImporter:
       name: character sprite sheet lower resolution_9
       rect:
         serializedVersion: 2
-        x: 1603
-        y: 3038
-        width: 495
-        height: 924
+        x: 3939
+        y: 3196
+        width: 311
+        height: 609
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -384,12 +438,12 @@ TextureImporter:
       name: character sprite sheet lower resolution_10
       rect:
         serializedVersion: 2
-        x: 2147
-        y: 2286
-        width: 791
-        height: 1330
+        x: 4265
+        y: 3179
+        width: 380
+        height: 636
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -406,12 +460,12 @@ TextureImporter:
       name: character sprite sheet lower resolution_11
       rect:
         serializedVersion: 2
-        x: 3158
-        y: 2782
-        width: 640
-        height: 1178
+        x: 4673
+        y: 3191
+        width: 366
+        height: 620
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -428,12 +482,12 @@ TextureImporter:
       name: character sprite sheet lower resolution_12
       rect:
         serializedVersion: 2
-        x: 41
-        y: 1249
-        width: 759
-        height: 867
+        x: 26
+        y: 2482
+        width: 445
+        height: 636
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -450,12 +504,12 @@ TextureImporter:
       name: character sprite sheet lower resolution_13
       rect:
         serializedVersion: 2
-        x: 827
-        y: 1226
-        width: 1395
-        height: 1134
+        x: 495
+        y: 2465
+        width: 460
+        height: 652
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -472,12 +526,12 @@ TextureImporter:
       name: character sprite sheet lower resolution_14
       rect:
         serializedVersion: 2
-        x: 2325
-        y: 1381
-        width: 559
-        height: 793
+        x: 972
+        y: 2477
+        width: 452
+        height: 645
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -494,12 +548,12 @@ TextureImporter:
       name: character sprite sheet lower resolution_15
       rect:
         serializedVersion: 2
-        x: 3163
-        y: 1558
-        width: 663
-        height: 1178
+        x: 1458
+        y: 2482
+        width: 452
+        height: 645
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -516,12 +570,12 @@ TextureImporter:
       name: character sprite sheet lower resolution_16
       rect:
         serializedVersion: 2
-        x: 104
-        y: 65
-        width: 742
-        height: 1157
+        x: 1964
+        y: 2478
+        width: 423
+        height: 658
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -534,11 +588,407 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: character sprite sheet lower resolution_17
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 2480
+        width: 412
+        height: 655
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fdb9acd6281cee0800000000000000
+      internalID: -1242568614115287278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character sprite sheet lower resolution_18
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 2373
+        width: 420
+        height: 772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e04a4128f8ad3aa0800000000000000
+      internalID: -6179597330018582303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character sprite sheet lower resolution_19
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 2383
+        width: 418
+        height: 742
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bbba1e8adfaec80800000000000000
+      internalID: -8292536862066885780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character sprite sheet lower resolution_20
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 2336
+        width: 389
+        height: 789
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25292aa628902fd30800000000000000
+      internalID: 4463640636417020498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character sprite sheet lower resolution_21
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 2316
+        width: 389
+        height: 824
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105f2dd0519505650800000000000000
+      internalID: 6219569032359769345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character sprite sheet lower resolution_22
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1617
+        width: 449
+        height: 772
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b4f2c6b85ae9fb0800000000000000
+      internalID: -4639088547910956275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character sprite sheet lower resolution_23
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1590
+        width: 462
+        height: 806
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be164bb4c354da80800000000000000
+      internalID: -8443031296992207179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character sprite sheet lower resolution_24
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1636
+        width: 601
+        height: 686
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8414d2ffbec258270800000000000000
+      internalID: 8252051284336394568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character sprite sheet lower resolution_25
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1612
+        width: 576
+        height: 704
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435880e2a780163b0800000000000000
+      internalID: -5521122347328174796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character sprite sheet lower resolution_26
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 1458
+        width: 539
+        height: 839
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c334e8be132b970800000000000000
+      internalID: 8769126312217623704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character sprite sheet lower resolution_27
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 1483
+        width: 561
+        height: 803
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d977e6e14b28adb0800000000000000
+      internalID: -4780523442406983209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character sprite sheet lower resolution_28
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 1435
+        width: 444
+        height: 732
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1782e8b8b373057a0800000000000000
+      internalID: -6390547142354786191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character sprite sheet lower resolution_29
+      rect:
+        serializedVersion: 2
+        x: 4246
+        y: 1417
+        width: 445
+        height: 738
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a5bc895e9a9eb20800000000000000
+      internalID: 3164247016780552763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character sprite sheet lower resolution_30
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 131
+        width: 1395
+        height: 1134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fb57c188298b690800000000000000
+      internalID: -7586152459014914194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character sprite sheet lower resolution_31
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 103
+        width: 1357
+        height: 1177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059906d5568a26b90800000000000000
+      internalID: -7250047296801302192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character sprite sheet lower resolution_32
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 334
+        width: 445
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1567a1810e847ca70800000000000000
+      internalID: 8847120120306890321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character sprite sheet lower resolution_33
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 317
+        width: 460
+        height: 652
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4231c8f33b1e339f0800000000000000
+      internalID: -489799774471711964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character sprite sheet lower resolution_34
+      rect:
+        serializedVersion: 2
+        x: 4301
+        y: 221
+        width: 555
+        height: 798
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45f078c32f19eba0800000000000000
+      internalID: -6059277585103129270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 721c745286e0ad64d960c7e61b995c6d
     internalID: 0
     vertices: []
     indices: 
@@ -557,8 +1007,26 @@ TextureImporter:
       character sprite sheet lower resolution_14: -1708763474762784397
       character sprite sheet lower resolution_15: 8710672060196345829
       character sprite sheet lower resolution_16: -3008754625295197182
+      character sprite sheet lower resolution_17: -1242568614115287278
+      character sprite sheet lower resolution_18: -6179597330018582303
+      character sprite sheet lower resolution_19: -8292536862066885780
       character sprite sheet lower resolution_2: -5660671275780735573
+      character sprite sheet lower resolution_20: 4463640636417020498
+      character sprite sheet lower resolution_21: 6219569032359769345
+      character sprite sheet lower resolution_22: -4639088547910956275
+      character sprite sheet lower resolution_23: -8443031296992207179
+      character sprite sheet lower resolution_24: 8252051284336394568
+      character sprite sheet lower resolution_25: -5521122347328174796
+      character sprite sheet lower resolution_26: 8769126312217623704
+      character sprite sheet lower resolution_27: -4780523442406983209
+      character sprite sheet lower resolution_28: -6390547142354786191
+      character sprite sheet lower resolution_29: 3164247016780552763
       character sprite sheet lower resolution_3: -6076016108939179050
+      character sprite sheet lower resolution_30: -7586152459014914194
+      character sprite sheet lower resolution_31: -7250047296801302192
+      character sprite sheet lower resolution_32: 8847120120306890321
+      character sprite sheet lower resolution_33: -489799774471711964
+      character sprite sheet lower resolution_34: -6059277585103129270
       character sprite sheet lower resolution_4: 6533550641308414390
       character sprite sheet lower resolution_5: -3072302899292433808
       character sprite sheet lower resolution_6: 173771926679344085

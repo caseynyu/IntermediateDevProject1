@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: e5a32a710ba72334b97567fb12a228c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4254826787570091569
+    second: Dialogue sprite sheet_0
+  - first:
+      213: -4426520214808027024
+    second: Dialogue sprite sheet_1
+  - first:
+      213: 1315637426769776803
+    second: Dialogue sprite sheet_2
+  - first:
+      213: 2732526318718491735
+    second: Dialogue sprite sheet_3
+  - first:
+      213: 5165022019578178691
+    second: Dialogue sprite sheet_4
+  - first:
+      213: -5642206327764413643
+    second: Dialogue sprite sheet_5
+  - first:
+      213: 7034801307022475696
+    second: Dialogue sprite sheet_6
+  - first:
+      213: 1220879360468439556
+    second: Dialogue sprite sheet_7
+  - first:
+      213: 428760822446539043
+    second: Dialogue sprite sheet_8
+  - first:
+      213: 2609495574619652579
+    second: Dialogue sprite sheet_9
+  - first:
+      213: -937009278050366722
+    second: Dialogue sprite sheet_10
+  - first:
+      213: 2636492793579112250
+    second: Dialogue sprite sheet_11
+  - first:
+      213: 1663610184042640925
+    second: Dialogue sprite sheet_12
+  - first:
+      213: -2345468652727242190
+    second: Dialogue sprite sheet_13
+  - first:
+      213: 983655923712836886
+    second: Dialogue sprite sheet_14
+  - first:
+      213: -8114790731391875432
+    second: Dialogue sprite sheet_15
+  - first:
+      213: -875319311613906497
+    second: Dialogue sprite sheet_16
+  - first:
+      213: 3515155042275575123
+    second: Dialogue sprite sheet_17
+  - first:
+      213: 1741717986623329118
+    second: Dialogue sprite sheet_18
+  - first:
+      213: -981611815483861576
+    second: Dialogue sprite sheet_19
+  - first:
+      213: -8613238301271297766
+    second: Dialogue sprite sheet_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 110
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dialogue sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 4261
+        width: 759
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9711a6491d3f4c0800000000000000
+      internalID: -4254826787570091569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 4352
+        width: 861
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070284d3157d192c0800000000000000
+      internalID: -4426520214808027024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 4388
+        width: 860
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a052d3e445124210800000000000000
+      internalID: 1315637426769776803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 3713
+        width: 723
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c1f969532ebe520800000000000000
+      internalID: 2732526318718491735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 3996
+        width: 974
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c270e4928dda740800000000000000
+      internalID: 5165022019578178691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 3857
+        width: 936
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53314241d3bd2b1b0800000000000000
+      internalID: -5642206327764413643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 3295
+        width: 777
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1478a4482a0a160800000000000000
+      internalID: 7034801307022475696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 3502
+        width: 658
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402d3525f4f61f010800000000000000
+      internalID: 1220879360468439556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 3214
+        width: 1103
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321c78342b343f500800000000000000
+      internalID: 428760822446539043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2772
+        width: 658
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e18820466ac63420800000000000000
+      internalID: 2609495574619652579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 3152
+        width: 439
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa009ea6031ff2f0800000000000000
+      internalID: -937009278050366722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2765
+        width: 832
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37092e1a34b69420800000000000000
+      internalID: 2636492793579112250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 2560
+        width: 1140
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d167590f5a4561710800000000000000
+      internalID: 1663610184042640925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2277
+        width: 636
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232f06aefa8337fd0800000000000000
+      internalID: -2345468652727242190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 2158
+        width: 984
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615cc1ad9d5a6ad00800000000000000
+      internalID: 983655923712836886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 2092
+        width: 788
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89641c4e2d8726f80800000000000000
+      internalID: -8114790731391875432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1847
+        width: 669
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1b63649bd3ad3f0800000000000000
+      internalID: -875319311613906497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1598
+        width: 955
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355424903e658c030800000000000000
+      internalID: 3515155042275575123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1404
+        width: 627
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e539793e743db2810800000000000000
+      internalID: 1741717986623329118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 982
+        width: 657
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b512ce214d9062f0800000000000000
+      internalID: -981611815483861576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dialogue sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 461
+        width: 581
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a117fee5661a77880800000000000000
+      internalID: -8613238301271297766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dialogue sprite sheet_0: -4254826787570091569
+      Dialogue sprite sheet_1: -4426520214808027024
+      Dialogue sprite sheet_10: -937009278050366722
+      Dialogue sprite sheet_11: 2636492793579112250
+      Dialogue sprite sheet_12: 1663610184042640925
+      Dialogue sprite sheet_13: -2345468652727242190
+      Dialogue sprite sheet_14: 983655923712836886
+      Dialogue sprite sheet_15: -8114790731391875432
+      Dialogue sprite sheet_16: -875319311613906497
+      Dialogue sprite sheet_17: 3515155042275575123
+      Dialogue sprite sheet_18: 1741717986623329118
+      Dialogue sprite sheet_19: -981611815483861576
+      Dialogue sprite sheet_2: 1315637426769776803
+      Dialogue sprite sheet_20: -8613238301271297766
+      Dialogue sprite sheet_3: 2732526318718491735
+      Dialogue sprite sheet_4: 5165022019578178691
+      Dialogue sprite sheet_5: -5642206327764413643
+      Dialogue sprite sheet_6: 7034801307022475696
+      Dialogue sprite sheet_7: 1220879360468439556
+      Dialogue sprite sheet_8: 428760822446539043
+      Dialogue sprite sheet_9: 2609495574619652579
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
