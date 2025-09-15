@@ -22,9 +22,14 @@ public class PlayerMove : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+
         animator = gameObject.GetComponent<Animator>();
         animator.SetBool("Idle", true);
         animator.SetBool("Down", true);
+        if (worried)
+        {
+            animator.SetBool("Worried", true);
+        }
     }
 
     // Update is called once per frame

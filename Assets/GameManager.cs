@@ -34,6 +34,20 @@ public class GameManager : MonoBehaviour
     public GameObject bRoomPeople;
     public GameObject bRoomDoor;
     public GameObject bRoomPlayer;
+    public AudioClip storeDoor;
+    public AudioClip storeBuy;
+    public AudioClip eating;
+    public AudioClip toiletFlush;
+    public AudioClip speaking;
+    public AudioClip stomachSound;
+    public AudioClip schoolBell;
+    public AudioClip streetAmbience;
+    public AudioClip schoolAmbience;
+    public AudioClip poopSound;
+    public AudioClip sink;
+    public AudioSource effectAudioSource;
+    public AudioSource ambienceAudioSource;
+    public AudioSource talkingAudioSource;
     public bool spaceUp = true;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -67,7 +81,12 @@ public class GameManager : MonoBehaviour
         dialogueNumber = 1;
         playerActivateNumber = 0;
         sceneNumber = 1;
-
+        ambienceAudioSource.loop = true;
+        ambienceAudioSource.clip = streetAmbience;
+        ambienceAudioSource.Play();
+        effectAudioSource.loop = false;
+        talkingAudioSource.clip = speaking;
+        talkingAudioSource.loop = true;
     }
     void Hide(GameObject gameObject)
     {
@@ -125,8 +144,12 @@ public class GameManager : MonoBehaviour
                     sceneNumber = 5;
                     Hide(dialogue5);
                     dialogueNumber = 5.5f;
+                    ambienceAudioSource.Stop();
                     break;
                 case 5.5f:
+                    ambienceAudioSource.clip = schoolAmbience;
+                    ambienceAudioSource.Play();
+                    effectAudioSource.PlayOneShot(stomachSound);
                     sceneNumber = 6;
                     Show(dialogue6);
                     dialogueNumber = 6;
@@ -139,6 +162,7 @@ public class GameManager : MonoBehaviour
                 case 7:
                     Hide(dialogue7);
                     Show(dialogue8);
+                    //ambienceAudioSource.Pause();
                     dialogueNumber = 8;
                     sceneNumber = 7;
                     break;
@@ -195,6 +219,8 @@ public class GameManager : MonoBehaviour
         {
             sceneNumber = 3;
             playerActivateNumber = 3;
+            effectAudioSource.PlayOneShot(storeDoor);
+            //ambienceAudioSource.Pause();
         }
         if (player == player3 && dialogueNumber == 2.5f)
         {
@@ -214,6 +240,8 @@ public class GameManager : MonoBehaviour
             playerActivateNumber = 0;
             dialogueNumber = 5;
             Show(dialogue5);
+            //ambienceAudioSource.Play();
+            StartCoroutine(DelayedEatingSound());
         }
         if (player == player7 && dialogueNumber == 8.5f)
         {
@@ -253,6 +281,7 @@ public class GameManager : MonoBehaviour
                     dialogueNumber = 4f;
                     playerActivateNumber = 0;
                     Show(dialogue4);
+                    effectAudioSource.PlayOneShot(storeBuy);
                 }
                 if (dialogueNumber == 4.5f)
                 {
@@ -278,6 +307,7 @@ public class GameManager : MonoBehaviour
                 if (dialogueNumber == 11.5f)
                 {
                     //play sound
+                    effectAudioSource.PlayOneShot(sink);
                     dialogueNumber = 12;
 
                 }
@@ -288,11 +318,13 @@ public class GameManager : MonoBehaviour
     {
         yield return new WaitForSeconds(2);
         //play sound effect;
-        Debug.Log("sound effect");
-        yield return new WaitForSeconds(3);
+        effectAudioSource.PlayOneShot(poopSound);
+        //Debug.Log("sound effect");
+        yield return new WaitForSeconds(7);
         //however long sound effect is ^
         bRoomPeople.gameObject.GetComponentInChildren<SpriteRenderer>().enabled = true;
         Show(dialogue10talk);
+        talkingAudioSource.Play();
         yield return new WaitForSeconds(1f);
         Show(dialogue10);
         while (!Input.GetKeyDown(KeyCode.Space))
@@ -302,19 +334,30 @@ public class GameManager : MonoBehaviour
         Hide(dialogue10);
         yield return new WaitForSeconds(5);
         //play school bell ringing sound effect and wait for it
-        bRoomPeople.gameObject.GetComponentInChildren<SpriteRenderer>().enabled = false;
+        effectAudioSource.PlayOneShot(schoolBell);
+        yield return new WaitForSeconds(2);
         Hide(dialogue10talk);
+        talkingAudioSource.Stop();
+        yield return new WaitForSeconds(2);
+        bRoomPeople.gameObject.GetComponentInChildren<SpriteRenderer>().enabled = false;
+        yield return new WaitForSeconds(1);
         Show(dialogue12);
         while (!Input.GetKeyDown(KeyCode.Space))
         {
             yield return null;
         }
+        effectAudioSource.PlayOneShot(toiletFlush);
         Hide(dialogue12);
         Show(dialogue11);
         bRoomDoor.GetComponent<SpriteRenderer>().enabled = true;
         bRoomPlayer.GetComponentInChildren<SpriteRenderer>().enabled = true;
         dialogueNumber = 11;
 
+    }
+    IEnumerator DelayedEatingSound()
+    {
+        yield return new WaitForSeconds(.75f);
+        effectAudioSource.PlayOneShot(eating);
     }
 }
 // need sound effects for toilet, eating takis, washing hands, money?
